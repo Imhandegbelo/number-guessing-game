@@ -1,0 +1,24 @@
+{
+  "name": "number-guessing-game",
+  "version": "1.0.0",
+  "description": "A number guessing game within a given range that runs on the console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Imhandegbelo/number-guessing-game.git"
+  },
+  "keywords": [
+    "nodejs",
+    "number",
+    "guessing"
+  ],
+  "author": "George Imhandegbelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Imhandegbelo/number-guessing-game/issues"
+  },
+  "homepage": "https://github.com/Imhandegbelo/number-guessing-game#readme"
+}
